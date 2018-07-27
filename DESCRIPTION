@@ -1,6 +1,6 @@
 Package: BinQuasi
-Version: 0.1-5
-Date: 2018-06-19
+Version: 0.1-6
+Date: 2018-07-26
 Title: Analyzing Replicated ChIP Sequencing Data Using Quasi-Likelihood
 Authors@R: c(
   person("Emily", "Goren", role=c("aut", "cre"), email="emily.goren@gmail.com"),
@@ -33,6 +33,6 @@ Author: Emily Goren [aut, cre],
     slightly leading to glm.fit3 in this package.)
 RoxygenNote: 6.0.1
 VignetteBuilder: knitr
-Packaged: 2018-06-20 20:58:56 UTC; emilygoren
+Packaged: 2018-07-27 06:12:14 UTC; emilygoren
 Repository: CRAN
-Date/Publication: 2018-06-21 07:42:37 UTC
+Date/Publication: 2018-07-27 08:00:03 UTC
